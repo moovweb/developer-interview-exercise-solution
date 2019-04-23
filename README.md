@@ -1,4 +1,4 @@
-# Moovweb QA Interview Exercise
+# Moovweb Developer Interview Exercise
 
 See https://delicate-sunset-4365.moovweb.cloud/ for instructions and test URLs
 
